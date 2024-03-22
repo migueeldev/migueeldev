@@ -8,8 +8,6 @@
 - 🎓 Studies for Computer System Engineering.
 - 📫 How to reach me: mle278175@gmail.com
 
-<br>
-
 ## Connect with me:
 
 <br>
@@ -17,16 +15,11 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguelanggel_?igsh=MTNsdXl3cjU1OTU5) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-angel-ba487026b/)
 <br>
 
-<br>
-
-
-<br>
-
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,powershell,windows,linux,ubuntu,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,github,powershell,windows,linux,ubuntu,mint,stackoverflow)](https://skillicons.dev)
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
