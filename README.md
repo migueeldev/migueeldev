@@ -6,10 +6,11 @@
 - 🌱 I’m currently learning python and java.
 - ⚡ Fun fact: 🍕 🎥 🐧
 - 🎓 Studies for Computer System Engineering.
+- 📫 How to reach me: mle278175@gmail.com
 
 <br>
 
-## - 📫 How to reach me ... :
+## Connect with me:
 
 <br>
 
