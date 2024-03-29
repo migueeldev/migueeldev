@@ -19,7 +19,30 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,github,powershell,windows,linux,ubuntu,mint,stackoverflow)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,github,powershell,windows,linux,ubuntu,mint,stackoverflow)](https://skillicons.dev) 
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/es-es/pycharm/)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/es-es/idea/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
+[![My Skills](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
+[![My Skills](https://skillicons.dev/icons?i=atom)](https://atom-editor.cc/)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/es-mx/windows?r=1)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+[![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
+
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
