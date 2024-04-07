@@ -4,7 +4,8 @@
 ## About Me :
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning python and java.
-- ⚡ Fun fact: 🍕 🎥 🐧
+- 💬 Ask me about **Linux**
+- ⚡ Fun fact: 🎥 🐧
 - 🎓 Studies for Computer System Engineering.
 - 📫 How to reach me: mle278175@gmail.com
 
@@ -27,6 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/es-es/pycharm/)
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/es-es/idea/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
