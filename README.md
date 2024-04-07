@@ -2,11 +2,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Miguel Angel</h1>
 
 ## About Me :
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning python and java.
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning python and java
 - 💬 Ask me about **Linux**
 - ⚡ Fun fact: 🎥 🐧
-- 🎓 Studies for Computer System Engineering.
+- 🎓 Studies for Computer System Engineering
 - 📫 How to reach me: mle278175@gmail.com
 
 ## Connect with me:
@@ -23,8 +23,14 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,github,powershell,windows,linux,ubuntu,mint,stackoverflow)](https://skillicons.dev) 
 -->
 
+<!--[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)-->
+
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
@@ -38,11 +44,13 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/es-es/powershell/)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/es-mx/windows?r=1)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
+[![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org/index.es.html)
+[![My Skills](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
 
 
