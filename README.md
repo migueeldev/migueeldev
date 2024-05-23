@@ -5,10 +5,10 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python and java
 - 💬 Ask me about **Linux**
-- ⚡ Fun fact: 🎥 🐧
 - 🎓 Studies for Computer System Engineering
 - 📫 How to reach me: mle278175@gmail.com
 
+<!-- - ⚡ Fun fact: 🎥 🐧 -->
 ## Connect with me:
 
 <br>
