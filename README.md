@@ -21,7 +21,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
