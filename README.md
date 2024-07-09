@@ -11,11 +11,7 @@
 <!-- - ⚡ Fun fact: 🎥 🐧 -->
 ## Connect with me:
 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguelanggel_?igsh=MTNsdXl3cjU1OTU5) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-angel-ba487026b/)
-<br>
-
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
