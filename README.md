@@ -3,10 +3,10 @@
 
 ## About Me :
 <!-- - 👀 I’m interested in technology -->
-- 🌱 I’m currently working with **python** and **java**
+- 🌱 I’m currently coding in **Python** and **JavaScript**
 - 💬 Ask me about **GNU/Linux**
 - 🎓 Studies for Computer System Engineering
-- 📫 How to reach me: mle278175@gmail.com
+<!-- - 📫 How to reach me: mle278175@gmail.com -->
 
 <!-- - ⚡ Fun fact: 🎥 🐧 -->
 ## Connect with me:
@@ -41,17 +41,11 @@
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/es-es/pycharm/)
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/es-es/idea/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
-[![My Skills](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org/index.es.html)
-[![My Skills](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://es.wikipedia.org/wiki/Bash)
 [![My Skills](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![My Skills](https://skillicons.dev/icons?i=matlab)](https://es.mathworks.com/products/matlab.html)
 
