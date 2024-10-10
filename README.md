@@ -4,7 +4,7 @@
 ## About Me :
 <!-- - 👀 I’m interested in technology -->
 - 🌱 I’m currently coding in **Python and C++**
-- 💬 Ask me about **GNU/Linux**
+- 💬 Ask me about **Linux**
 - 🎓 Studies for Computer System Engineering
 <!-- - 📚 Learning interests: **Laravel And Flutter** -->
 <!-- - 📚 I'm currently learning **Laravel and Flutter**-->
@@ -36,8 +36,8 @@
 [![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
 [![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+<!--[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/) -->
 
 
 
