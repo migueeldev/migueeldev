@@ -3,11 +3,12 @@
 
 ## About Me :
 <!-- - 👀 I’m interested in technology -->
-- 🌱 I’m currently coding in **Python** and **JavaScript**
+- 🌱 I’m currently coding in **Python and C++**
 - 💬 Ask me about **GNU/Linux**
 - 🎓 Studies for Computer System Engineering
+<!-- - 📚 Learning interests: **Laravel And Flutter** -->
+<!-- - 📚 I'm currently learning **Laravel and Flutter**-->
 <!-- - 📫 How to reach me: mle278175@gmail.com -->
-
 <!-- - ⚡ Fun fact: 🎥 🐧 -->
 ## Connect with me:
 
@@ -16,34 +17,27 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 
-<!--[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,r,mysql,php,pycharm,idea,vscode,visualstudio,sublime,atom,eclipse,git,github,powershell,windows,linux,ubuntu,mint,stackoverflow)](https://skillicons.dev) 
--->
 
-<!--[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/es-es/pycharm/)
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/es-es/idea/)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
-[![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
-[![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org/index.es.html)
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-[![My Skills](https://skillicons.dev/icons?i=matlab)](https://es.mathworks.com/products/matlab.html)
+[![PYTHON](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
+[![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JAVASCRIPT](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![LINUX](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
+[![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 
 
 
@@ -56,7 +50,3 @@
 </div>
 
 
-<!---
-migueeldev/migueekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
