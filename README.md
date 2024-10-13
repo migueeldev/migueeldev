@@ -2,8 +2,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Miguel</h1>
 
 ## About Me :
-<!-- - 👀 I’m interested in technology -->
-- 🌱 I’m currently coding in **Python, C and C++**
+<!-- - 👀 I’m interested in Coding, technology -->
+- 🌱 I'm currently coding in **Python, C, and C++**
 - 💬 Ask me about **Algorithms and Data Structures**
 - 🎓 Studies for Computer System Engineering
 <!-- - 📚 Learning interests: **Laravel And Flutter** -->
