@@ -3,8 +3,8 @@
 
 ## About Me :
 <!-- - 👀 I’m interested in technology -->
-- 🌱 I’m currently coding in **Python and C++**
-- 💬 Ask me about **Linux**
+- 🌱 I’m currently coding in **Python, C and C++**
+- 💬 Ask me about **Algorithms and Data Structures**
 - 🎓 Studies for Computer System Engineering
 <!-- - 📚 Learning interests: **Laravel And Flutter** -->
 <!-- - 📚 I'm currently learning **Laravel and Flutter**-->
