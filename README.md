@@ -10,9 +10,9 @@
 <!-- - 📚 I'm currently learning **Laravel and Flutter**-->
 <!-- - 📫 How to reach me: mle278175@gmail.com -->
 <!-- - ⚡ Fun fact: 🎥 🐧 -->
-## Connect with me:
+<!--## Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguelanggel_) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/migueeldev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguelanggel_) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/migueeldev)-->
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
