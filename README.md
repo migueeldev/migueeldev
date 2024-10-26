@@ -26,6 +26,7 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JAVASCRIPT](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JAVASCRIPT](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![LINUX](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
