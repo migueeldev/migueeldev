@@ -18,7 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-
 [![PYTHON](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
