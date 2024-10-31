@@ -8,7 +8,7 @@
 - 🎓 Studies for Computer System Engineering
 <!-- - 📚 Learning interests: **Laravel And Flutter** -->
 <!-- - 📚 I'm currently learning **Laravel and Flutter**-->
-<!-- - 📫 How to reach me: mle278175@gmail.com -->
+<!-- - 📫 How to reach me: -->
 <!-- - ⚡ Fun fact: 🎥 🐧 -->
 <!--## Connect with me:
 
@@ -40,7 +40,6 @@
 <!--[![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/) -->
 
 
-
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=migueeldev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
@@ -48,5 +47,3 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueeldev&theme=gotham" alt="mystreak"/>
 </div>
-
-
