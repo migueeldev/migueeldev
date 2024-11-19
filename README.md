@@ -31,13 +31,15 @@
 [![LINUX](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
-[![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-<!--[![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/) -->
+<!--[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)-->
+<!--[![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)-->
+<!--[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)-->
+<!--[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)-->
+<!--[![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) -->
+
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
