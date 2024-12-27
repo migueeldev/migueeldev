@@ -33,7 +33,8 @@
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-[![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
+<!--[![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)-->
 <!--[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)-->
 <!--[![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)-->
 <!--[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)-->
