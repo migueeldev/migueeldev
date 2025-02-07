@@ -3,16 +3,9 @@
 
 ## About Me :
 <!-- - 👀 I’m interested in Coding, technology -->
-- 🌱 I'm currently coding in **Python, C, and C++**
-- 💬 Ask me about **Algorithms and Data Structures**
+- 🌱 I’m currently learning a lot of stuff
 - 🎓 Studies for Computer System Engineering
-<!-- - 📚 Learning interests: **Laravel And Flutter** -->
-<!-- - 📚 I'm currently learning **Laravel and Flutter**-->
-<!-- - 📫 How to reach me: -->
-<!-- - ⚡ Fun fact: 🎥 🐧 -->
-<!--## Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguelanggel_) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/migueeldev)-->
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
@@ -34,12 +27,7 @@
 [![THREEJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
-<!--[![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)-->
-<!--[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)-->
-<!--[![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)-->
-<!--[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)-->
-<!--[![HASKELL](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)-->
-<!--[![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) -->
+
 
 
 
