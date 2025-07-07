@@ -15,14 +15,11 @@
 [![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
 [![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
-[![JAVASCRIPT](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![LINUX](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-[![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 
 
 
