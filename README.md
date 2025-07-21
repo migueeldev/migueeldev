@@ -1,15 +1,12 @@
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Miguel</h1>
 
 ## About Me :
-<!-- - 👀 I’m interested in Coding, technology -->
+
 - 🌱 I’m currently learning a lot of stuff
 - 🎓 Studies for Computer System Engineering
 
-
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
-
 
 [![PYTHON](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
@@ -20,9 +17,6 @@
 [![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-
-
-
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
