@@ -18,6 +18,7 @@
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
 [![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![REACT](https://skillicons.dev/icons?i=react)](https://es.react.dev/)
 [![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
