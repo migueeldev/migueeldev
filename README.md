@@ -11,12 +11,15 @@
 [![PYTHON](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![LINUX](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![BASH](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![EMACS](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![LATEX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![FLUTTER](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![LARAVEL](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![DOCKER](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
